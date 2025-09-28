@@ -2,10 +2,6 @@
 
 A free, customizable typing test and practice tool designed as a polished terminal-first CLI with multiplayer racing capabilities and comprehensive statistics tracking.
 
-[![CI/CD](https://github.com/speed-type/speed-type/workflows/CI/CD%20Pipeline/badge.svg)](https://github.com/speed-type/speed-type/actions)
-[![npm version](https://badge.fury.io/js/speed-type.svg)](https://www.npmjs.com/package/speed-type)
-[![Coverage Status](https://coveralls.io/repos/github/speed-type/speed-type/badge.svg?branch=main)](https://coveralls.io/github/speed-type/speed-type?branch=main)
-
 ## ✨ Features
 
 ### 🎯 Core Features
@@ -174,7 +170,7 @@ speed-type leaderboard --type global
 
 ### Setup
 ```bash
-git clone https://github.com/speed-type/speed-type.git
+git clone https://github.com/Suryanshu-Nabheet/Speed-Type.git
 cd speed-type
 npm install
 npm run dev
