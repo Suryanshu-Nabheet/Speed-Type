@@ -1,0 +1,41 @@
+{
+  "dark": {
+    "name": "Dark",
+    "colors": {
+      "background": "#1a1a1a",
+      "text": "#ffffff",
+      "correct": "#00ff00",
+      "incorrect": "#ff0000",
+      "cursor": "#ffff00",
+      "accent": "#00ffff",
+      "border": "#444444",
+      "dim": "#666666"
+    }
+  },
+  "light": {
+    "name": "Light",
+    "colors": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "correct": "#008000",
+      "incorrect": "#ff0000",
+      "cursor": "#0000ff",
+      "accent": "#0080ff",
+      "border": "#cccccc",
+      "dim": "#999999"
+    }
+  },
+  "high-contrast": {
+    "name": "High Contrast",
+    "colors": {
+      "background": "#000000",
+      "text": "#ffffff",
+      "correct": "#00ff00",
+      "incorrect": "#ff0000",
+      "cursor": "#ffff00",
+      "accent": "#ffffff",
+      "border": "#ffffff",
+      "dim": "#cccccc"
+    }
+  }
+}

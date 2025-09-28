@@ -1,0 +1,1 @@
+{"version":3,"file":"TextDisplay.d.ts","sourceRoot":"","sources":["../../../../src/ui/components/TextDisplay.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAC;AAE1B,OAAO,EAAE,YAAY,EAAE,MAAM,yBAAyB,CAAC;AAGvD,UAAU,KAAK;IACb,MAAM,EAAE,YAAY,CAAC;IACrB,UAAU,EAAE,OAAO,CAAC;CACrB;AAED,eAAO,MAAM,WAAW,EAAE,KAAK,CAAC,EAAE,CAAC,KAAK,CAwEvC,CAAC"}

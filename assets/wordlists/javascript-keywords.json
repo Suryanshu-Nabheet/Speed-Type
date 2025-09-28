@@ -1,0 +1,23 @@
+{
+  "name": "javascript-keywords",
+  "category": "code",
+  "difficulty": "medium",
+  "content": [
+    "function", "const", "let", "var", "if", "else", "for", "while", "do",
+    "switch", "case", "default", "break", "continue", "return", "try",
+    "catch", "finally", "throw", "async", "await", "Promise", "class",
+    "extends", "super", "this", "new", "typeof", "instanceof", "in",
+    "delete", "void", "with", "import", "export", "from", "as", "default",
+    "null", "undefined", "true", "false", "NaN", "Infinity", "prototype",
+    "constructor", "static", "get", "set", "yield", "Symbol", "Map", "Set",
+    "Array", "Object", "String", "Number", "Boolean", "Date", "RegExp",
+    "JSON", "Math", "parseInt", "parseFloat", "isNaN", "isFinite",
+    "setTimeout", "setInterval", "clearTimeout", "clearInterval",
+    "console", "log", "error", "warn", "info", "debug", "document",
+    "window", "global", "process", "require", "module", "exports"
+  ],
+  "metadata": {
+    "description": "JavaScript keywords, built-in objects, and common methods",
+    "tags": ["javascript", "keywords", "programming", "web"]
+  }
+}

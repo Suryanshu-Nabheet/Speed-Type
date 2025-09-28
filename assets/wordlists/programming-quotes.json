@@ -1,0 +1,22 @@
+{
+  "name": "programming-quotes",
+  "category": "quotes",
+  "difficulty": "medium",
+  "content": [
+    "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "First, solve the problem. Then, write the code.",
+    "Experience is the name everyone gives to their mistakes.",
+    "The best error message is the one that never shows up.",
+    "Simplicity is the ultimate sophistication.",
+    "Code is like humor. When you have to explain it, it's bad.",
+    "Programming isn't about what you know; it's about what you can figure out.",
+    "The most important property of a program is whether it accomplishes the intention of its user.",
+    "Clean code always looks like it was written by someone who cares.",
+    "There are only two hard things in Computer Science: cache invalidation and naming things."
+  ],
+  "metadata": {
+    "description": "Famous quotes about programming and software development",
+    "author": "Various programming legends",
+    "tags": ["programming", "quotes", "wisdom", "development"]
+  }
+}
